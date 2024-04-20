@@ -1,6 +1,6 @@
 # Taller Nr 3
 
-![Diagrama ERD](C:\Users\Johan\Documents\CampusLands\Programacion\Bases_De_Datos\Taller_3\erd.png)
+![Diagrama ERD](erd.png)
 
 #### **Consultas sobre una tabla**
 
